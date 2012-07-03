@@ -1,0 +1,1 @@
+// Question: You have a n number of cities. Lets say city 1 has some information that needs to be sent to all other n-1 cities using minimal cost. Cost between each pair of cities is given. any number of cities can transmit the information once they receive the information but the overall total cost should be minimum

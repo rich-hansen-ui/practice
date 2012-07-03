@@ -1,0 +1,1 @@
+// Question: You are given an array that represents bills in certain currency (For example 1, 2, 5, 10) and an amount, for example 17. You should output the number of possible combinations of bills that sum to the given amount. For example, {10, 5, 2} is valid combination, {10, 5, 1 ,1} also. 

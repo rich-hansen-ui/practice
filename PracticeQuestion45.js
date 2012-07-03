@@ -1,0 +1,1 @@
+// Question: Write a function to modify a singly linked list, appending copies of the first N-1 elements to the end in reverse order. For example, ['A', 'B', 'C', 'D'] becomes ['A', 'B', 'C', 'D', 'C', 'B', 'A'].

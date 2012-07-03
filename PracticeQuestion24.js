@@ -1,0 +1,1 @@
+// Question: We have a schedular. Timer is available to the schedular. The clients of this schedular want to call this schedular with 2 parameters, 1) time interval in ms 2) callback function. The schedular will invoke specified callback function after specified time intevals. Design data structure and implement it.

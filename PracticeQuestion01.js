@@ -1,0 +1,1 @@
+// Question: A sub-array has one number of some continuous numbers. Given an integer array with positive numbers and negative numbers, get the maximum sum of all sub-arrays. Time complexity should be O(n).
